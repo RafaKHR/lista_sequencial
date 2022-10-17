@@ -1,1 +1,2 @@
-# lista_sequencial
+# Lista Sequencial
+## Algoritmos e Progamação
