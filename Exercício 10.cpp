@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 int main(){
-	double x1, x2, y1, y2, resultadoPowX, resultadoPowY, raiz, distancia;
+	double x1, x2, y1, y2, resultadoPowX, resultadoPowY, raiz;
 	printf("Digite o primeiro valor de X: ");
 	scanf("%lf", &x1);
 	printf("Digite o segundo valor de X: ");
